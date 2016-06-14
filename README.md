@@ -9,7 +9,7 @@ Repository for Freifunk Aachen Corporate Identity / Corporate Design Elements su
 * Logo
 * Flyer
 * Colors
-* Fonts
+* Fonts (we are using [Leage Gothic](https://www.fontsquirrel.com/fonts/League-Gothic))
 * Pictures
 
 Please use the branching and Pull-Request methods to contribute to this project!
